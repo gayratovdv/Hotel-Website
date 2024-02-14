@@ -822,3 +822,9 @@ p {
         height: 620px;
     }
 }
+
+@media screen and (min-width: 1201px) {
+    #about-info {
+        padding-left: 140px;
+    }
+}
